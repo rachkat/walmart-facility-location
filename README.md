@@ -19,11 +19,6 @@ This paper evaluates **South Korea vs. Russia** as locations for a new Walmart m
 
 ## Key Points
 - **Framework:** Material Requirements Planning (MRP), forecasting, capacity planning, automated scheduling.
-- **FRM Weights (example used):**
-  - Logistics & Infrastructure — **30%**
-  - Market Potential — **25%**
-  - Political/Economic Stability — **25%**
-  - Labor Availability & Cost — **20%**
 - **Result:** South Korea scores higher on logistics, stability, market potential, and skilled labor; Russia’s lower labor cost doesn’t offset these strategic advantages.
 - **Constraints Addressed:** port congestion, customs delays, supplier capacity, urban traffic, logistics costs.
 - **Inventory Strategy:** **Pull-led** system with selective **push** for critical/high-demand items to balance responsiveness and availability.
@@ -63,8 +58,3 @@ This paper evaluates **South Korea vs. Russia** as locations for a new Walmart m
 - Open the PDF for detailed sources, analysis, and references.
 
 ---
-
-## Notes
-- This repository contains **public, non-sensitive** material; all sources are cited in the PDF.
-- For portfolio clarity, filenames avoid spaces and use lowercase.
-
