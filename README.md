@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Executive Summary
+## Executive Summary
 This paper evaluates **South Korea vs. Russia** as locations for a new Walmart manufacturing facility. Using the **Factor Rating Method (FRM)** and supply-chain principles (MRP, forecasting, capacity, scheduling), the analysis weighs **logistics & infrastructure, labor, market potential, and political/economic stability**.  
 **Recommendation:** **South Korea**—strong infrastructure, skilled labor aligned with automation, robust market adjacency, and greater stability.
 
@@ -17,7 +17,7 @@ This paper evaluates **South Korea vs. Russia** as locations for a new Walmart m
 
 ---
 
-## 🔍 Key Points
+## Key Points
 - **Framework:** Material Requirements Planning (MRP), forecasting, capacity planning, automated scheduling.
 - **FRM Weights (example used):**
   - Logistics & Infrastructure — **30%**
@@ -45,26 +45,26 @@ This paper evaluates **South Korea vs. Russia** as locations for a new Walmart m
 ---
 
 
-## 🧭 Why It Matters
+## Why It Matters
 - Aligns with Walmart’s global platform and automation investments.
 - Reduces risk of supply chain shocks; improves service levels and cost structure.
 - Provides a clear, reproducible **location decision method** using FRM.
 
 ---
 
-## 🗂 Files
+## Files
 - `walmart_facility_location_proposal.pdf` — full academic write-up
 - *(Optional later)* `figures/` — charts (FRM weights, risk/impact visuals)
 
 ---
 
-## ✅ How to Use in a Review
+## How to Use in a Review
 - Skim this README for context and rationale.
 - Open the PDF for detailed sources, analysis, and references.
 
 ---
 
-## 📎 Notes
+## Notes
 - This repository contains **public, non-sensitive** material; all sources are cited in the PDF.
 - For portfolio clarity, filenames avoid spaces and use lowercase.
 
