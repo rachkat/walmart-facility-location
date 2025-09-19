@@ -1,5 +1,7 @@
 # Walmart Facility Location Proposal — South Korea vs. Russia
 
+![PDF](https://img.shields.io/badge/PDF-Download-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 **Author:** Rachel Goldsbury  
 **Course:** QSO 635 International Supply Chain Management  
 **Instructor:** Dr. Knopp  
@@ -29,6 +31,19 @@ This paper evaluates **South Korea vs. Russia** as locations for a new Walmart m
 - **Quality Practices:** **TQM** culture, **Six Sigma** for variance reduction, ongoing training.
 
 ---
+
+## Factor Rating (illustrative weights)
+| Factor                         | Weight |
+|--------------------------------|:-----:|
+| Logistics & Infrastructure     |  30%  |
+| Market Potential               |  25%  |
+| Political/Economic Stability   |  25%  |
+| Labor Availability & Cost      |  20%  |
+
+> The FRM scoring favors **South Korea** on logistics, stability, market potential, and skilled labor. Russia’s lower labor cost does not offset these advantages.
+
+---
+
 
 ## 🧭 Why It Matters
 - Aligns with Walmart’s global platform and automation investments.
